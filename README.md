@@ -37,7 +37,11 @@ Bu proje, 18.03.2024 Tarihinde tamamladığım BTK Akademi tarafından düzenlen
 
 Bu proje, eğitim sürecinde öğrenilen konseptlerin uygulamalı olarak pekiştirilmesini sağlamak amacıyla oluşturulmuştur. Her bir konu başlığı, ilgili örnekler ve açıklamalar ile birlikte sunulmaktadır.
 
-## Nasıl Başlamalıyım?
+## Utilizing the Repository
 
 Projeyi klonlayın:
+git clone https://github.com/soneryesilay/BookStoreAppAPI.git
+
+Proje klasörüne gidin ve projeyi derleyip çalıştırın:
+dotnet run
 
