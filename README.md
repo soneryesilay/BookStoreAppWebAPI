@@ -1,6 +1,6 @@
 # ASP.NET Core Web API Eğitimi
 
-Bu proje, 18.03.2024 Tarihinde tamamladığım BTK Akademi tarafından düzenlenen ASP.NET Core Web API eğitiminin içeriğini ve örnek uygulamalarını içermektedir.
+Bu proje, 18.03.2024 tarihinde tamamladığım BTK Akademi tarafından düzenlenen ASP.NET Core Web API eğitiminin içeriğini ve örnek uygulamalarını içermektedir.
 
 ## Eğitim İçeriği
 
@@ -39,9 +39,13 @@ Bu proje, eğitim sürecinde öğrenilen konseptlerin uygulamalı olarak pekişt
 
 ## Utilizing the Repository
 
-Projeyi klonlayın:
+Clone the project:
+
+```shell
 git clone https://github.com/soneryesilay/BookStoreAppAPI.git
+```
+Navigate to the project directory and compile/run the project:
+```shell
+cd BookStoreAppAPI
 
-Proje klasörüne gidin ve projeyi derleyip çalıştırın:
 dotnet run
-
