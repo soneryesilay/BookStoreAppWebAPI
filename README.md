@@ -46,6 +46,4 @@ git clone https://github.com/soneryesilay/BookStoreAppWebAPI.git
 ```
 Navigate to the project directory and compile/run the project:
 ```bash
-cd BookStoreAppWebAPI
-
 dotnet run
