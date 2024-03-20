@@ -42,10 +42,10 @@ Bu proje, eğitim sürecinde öğrenilen konseptlerin uygulamalı olarak pekişt
 Clone the project:
 
 ```shell
-git clone https://github.com/soneryesilay/BookStoreAppAPI.git
+git clone https://github.com/soneryesilay/BookStoreAppWebAPI.git
 ```
 Navigate to the project directory and compile/run the project:
 ```shell
-cd BookStoreAppAPI
+cd BookStoreAppWebAPI
 
 dotnet run
