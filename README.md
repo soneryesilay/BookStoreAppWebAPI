@@ -31,7 +31,6 @@ Bu proje, 18.03.2024 tarihinde tamamladığım BTK Akademi tarafından düzenlen
 - Hız Sınırlama ve Kısıtlama (Rate Limit and Throttling)
 - JWT, Identity ve Refresh Token
 - API Dokümantasyonu (API Documentation)
-- Repository Kullanımı
 
 ## Proje Hakkında
 
