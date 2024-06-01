@@ -38,7 +38,7 @@ Bu proje, eğitim sürecinde öğrenilen konseptlerin uygulamalı olarak pekişt
 
 ## Utilizing the Repository
 
-Clone the project:
+Clone the project: 
 
 ```bash
 git clone https://github.com/soneryesilay/BookStoreAppWebAPI.git
